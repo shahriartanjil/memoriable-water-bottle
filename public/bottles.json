@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "Hydro Flask Wide Mouth",
+    "img": "hydro_flask_wide_mouth.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Nalgene Wide Mouth",
+    "img": "nalgene_wide_mouth.jpg"
+  },
+  {
+    "id": 3,
+    "name": "CamelBak Chute Mag",
+    "img": "camelbak_chute_mag.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Yeti Rambler",
+    "img": "yeti_rambler.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Contigo AUTOSEAL Chill",
+    "img": "contigo_autoseal_chill.jpg"
+  }
+]
